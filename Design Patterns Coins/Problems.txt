@@ -1,0 +1,1 @@
+The problem I faced was how to implement builder and factory in the same project. So what I did was that I created the metals using factory design patterns and used those to build a coin using builder design pattern.
